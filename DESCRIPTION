@@ -18,3 +18,4 @@ RoxygenNote: 7.3.2
 Suggests: 
     litedown
 VignetteBuilder: litedown
+Remotes: yihui/litedown
