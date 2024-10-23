@@ -14,5 +14,5 @@ vignette: >
 Does this work
 
 ```{r}
-try(err())
+1
 ```
