@@ -2,8 +2,6 @@
 title: "segs"
 output:
     litedown::html_format:
-        options:
-            embed_resources: ["all"]
         
 vignette: >
   %\VignetteEngine{litedown::vignette}
