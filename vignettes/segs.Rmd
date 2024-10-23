@@ -2,7 +2,6 @@
 title: "segs"
 output:
     litedown::html_format:
-        
 vignette: >
   %\VignetteEngine{litedown::vignette}
   %\VignetteIndexEntry{segs}
